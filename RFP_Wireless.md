@@ -3,7 +3,7 @@
 **Organization:** Peekaboo  
 **Prepared For:** MITT — Network & System Administration Program  
 **Contact:** Justin Ducharme — justin.ducharme@mitt.ca  
-**Submission Deadline:** YYYY-MM-DD HH:MM  
+**Submission Deadline:** 2025-11-20 18:13  
 **Submission Format:** PDF / Markdown (GitHub Repository)
 
 ---
